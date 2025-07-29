@@ -1,7 +1,3 @@
-Claro, aquí tienes la versión actualizada del README, incluyendo la mención a la tesis doctoral.
-
----
-
 # treeSLAM: Reconstrucción 3D de Árboles a partir de Nubes de Puntos
 
 Este repositorio contiene un conjunto de scripts de MATLAB diseñados para procesar, analizar y reconstruir modelos 3D de árboles a partir de datos de nubes de puntos. El proyecto implementa un enfoque de Simultaneous Localization and Mapping (SLAM) para alinear múltiples escaneos y generar un modelo cohesivo de una plantación.
