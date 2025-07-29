@@ -4,6 +4,12 @@ Este repositorio contiene un conjunto de scripts de MATLAB diseñados para proce
 
 Este trabajo es un material complementario a la tesis Doctoral titulada **"Reconstrucción espacio-temporal de cultivos utilizando estrategias de sensado activo"**, del Instituto de Automática (INAUT).
 
+## Ejemplo de Reconstrucción
+
+A continuación se muestra un ejemplo del resultado final obtenido al ejecutar el pipeline. La imagen representa la reconstrucción de la plantación utilizando el 30% de los datos con menor incertidumbre, con los puntos agrupados en una grilla (voxel grid) de 1 cm de lado.
+
+![Ejemplo de Reconstrucción](img/fondo2.png)
+
 ## Requisitos
 
 *   **MATLAB:** Es necesario tener instalado MATLAB.
