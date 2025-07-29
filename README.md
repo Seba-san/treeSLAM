@@ -6,7 +6,7 @@ Este trabajo es un material complementario a la tesis Doctoral titulada **"Recon
 
 ## Ejemplo de Reconstrucción
 
-A continuación se muestra un ejemplo del resultado final obtenido al ejecutar el pipeline. La imagen representa la reconstrucción de la plantación utilizando el 30% de los datos con menor incertidumbre, con los puntos agrupados en una grilla (voxel grid) de 1 cm de lado.
+A continuación se muestra un ejemplo del resultado final obtenido al ejecutar el pipeline. La animación  representa la reconstrucción de la plantación utilizando un porcentaje variable de incertidumbre (de menos a más), con los puntos agrupados en una grilla (voxel grid) de 1 cm de lado.
 <p align="center">
 <img src="img/recon.gif" alt="Texto descriptivo" width="400"/>
 </p>
